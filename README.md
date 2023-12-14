@@ -1,2 +1,2 @@
-# introduction
+# GAbWis
 (Brief) Introduction
